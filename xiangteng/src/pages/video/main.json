@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "祥腾视频",
+    "usingComponents": {
+        "txv-video": "plugin://tencentvideo/video"
+      }
+}
